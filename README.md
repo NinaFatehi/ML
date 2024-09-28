@@ -8,6 +8,7 @@ In this repositroy traditional Machine Learning models are trained and evaluated
 3.	Pandas
 
 **Installation**
+
 Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/NinaFatehi/ML.git
